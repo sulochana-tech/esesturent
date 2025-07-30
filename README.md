@@ -1,5 +1,6 @@
 # SMAIT Restaurant Management System
 
+
 A robust, terminal-based restaurant management system built with pure Dart, designed to streamline restaurant operations with a focus on simplicity and efficiency.
 
 ---
